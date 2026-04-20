@@ -1,0 +1,5 @@
+<h2>City/Zip Search</h2>
+<form action='/process' method='post'>
+Enter a city name or zip code: <input type='text' name='place'><br />
+<input type='submit'>
+</form>
