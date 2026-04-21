@@ -1,5 +1,5 @@
 {
-  "name": "zipFinder",
+  "name": "zip-finder-app",
   "version": "1.0.0",
   "description": "node app ",
   "main": "zipFinder.js",
