@@ -1,19 +1,18 @@
 {
-  "name": "zip-finder-app",
+  "name": "zipfinder",
   "version": "1.0.0",
   "description": "node app ",
   "main": "zipFinder.js",
   "scripts": {
-  "start": "node zipFinder.js"
-},
+    "start": "node zipFinder.js"
+  },
   "repository": {
-  "type": "git",
-  "url": ""
-},
+    "type": "git",
+    "url": ""
+  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-  "url": ""
-},
-  "homepage": ""
+  "homepage": "",
+  "keywords": [],
+  "type": "commonjs"
 }
