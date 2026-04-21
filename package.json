@@ -1,0 +1,19 @@
+{
+  "name": "zipFinder",
+  "version": "1.0.0",
+  "description": "node app ",
+  "main": "zipFinder.js",
+  "scripts": {
+  "start": "node zipFinder.js"
+},
+  "repository": {
+  "type": "git",
+  "url": ""
+},
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  "url": ""
+},
+  "homepage": ""
+}
