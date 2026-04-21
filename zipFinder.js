@@ -3,7 +3,7 @@ var url = require('url');
 var qs = require('querystring');
 var fs = require('fs');
 var port = process.env.PORT || 3000;
-//require("node:dns/promises").setServers(["1.1.1.1", "8.8.8.8"]);
+require("node:dns/promises").setServers(["1.1.1.1", "8.8.8.8"]);
 const MongoClient = require('mongodb').MongoClient
 const mongourl = "mongodb+srv://cs120_visitor:CS120_visit@cs120.rdyqcgo.mongodb.net/?appName=CS120"
 
